@@ -1,5 +1,11 @@
 # app_pizzaria
 
+Projeto de desenvolvimento de um App funcional em Flutter.
+
+Desenvolvido em conjunto com os alunos do curso Técnico em Desenvolvimento de Sistemas, da ETEC "Frei Arnaldo Maria de Itaporanga" em Votuporanga/SP.
+
+Na disciplina de Desenvolvimento de Aplicativos Mobile I, sob a orientação do Prof. Rodrigo Souza.
+
 A new Flutter project.
 
 ## Getting Started
